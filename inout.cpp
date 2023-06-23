@@ -11,7 +11,7 @@ int main(){
     return 0;
 }
 //o/p - 10 20
-
+/*
 #include<iostream>
 using namespace std;
 int main(){
